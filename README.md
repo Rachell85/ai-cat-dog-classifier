@@ -1,5 +1,6 @@
 # AI Cat vs Dog Classifier
-
+## Summary  
+This is a simple AI model that predicts whether an animal is a cat or a dog using features like height, weight, and length.
 This project is a simple AI model that classifies whether an animal is a **cat** or a **dog** based on its physical characteristics: height, weight, and length.
 
 ## Project Description
